@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋
+>🔎 **Je suis à la recherche d'un stage de 4 à 6 mois à partir d'Avril 2022**
 
-<!--
-**YannQuillard/YannQuillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Étudiant à [HETIC](https://www.hetic.net/)
+- 🔭 Développeur web Freelance
 
-Here are some ideas to get you started:
+### 📥 Me contacter :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="12px"/>[ Sur LinkedIn](https://www.linkedin.com/in/yann-quillard/)
+- ✉️ [Par Mail](mailto:contact@yannquillard.fr)
+
+### 📊 Mes statistiques :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannQuillard&layout=compact)](https://github.com/YannQuillard)
