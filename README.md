@@ -14,6 +14,6 @@
 
 **📥 Me contacter :**
 
-- <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="18px"/>[ LinkedIn](https://www.linkedin.com/in/yann-quillard/)
+- <img src="https://raw.githubusercontent.com/yannquillard/yannquillard/main/images/linkedin.svg" width="18px"/>[ LinkedIn](https://www.linkedin.com/in/yann-quillard/)
 - ✉️ [Mail](mailto:contact@yannquillard.fr)
 - 📝 [CV](https://yannquillard.fr/CV-QuillardYann.pdf)
