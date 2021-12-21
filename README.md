@@ -6,11 +6,11 @@
 
 <br />
 
-**📊 Mes statistiques :**
+<!--**📊 Mes statistiques :**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannQuillard&layout=compact&theme=tokyonight)](https://github.com/YannQuillard)
 
-<br />
+<br />-->
 
 **📥 Me contacter :**
 
